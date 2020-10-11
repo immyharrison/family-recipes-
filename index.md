@@ -2,6 +2,6 @@
 
 recipes from my grandmother 
 
-- piza (TO DO)
-- sauseZ (TO DO)
-- Zpreads (TO DO)
+- pizza (TO DO)
+- sauses (TO DO)
+- spreads (TO DO)
